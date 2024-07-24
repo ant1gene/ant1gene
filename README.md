@@ -1,0 +1,7 @@
+-👋 Hi, I’m Holo.
+-👀 I’m interested in programming, Linux, and a bit of math.
+-🌱 I’m currently learning C++.
+-💞️ I’m looking to collaborate on a game project.
+-📫 You can reach me on Session: 05c61906ab70af7de3d2e251aec35450878baea96dc78c24711f0c3b6de8a22b5e.
+-😄 Pronouns: He/Him.
+-⚡ Currently watching: The Walking Dead.
