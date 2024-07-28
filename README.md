@@ -1,4 +1,4 @@
--👋 Hi, I’m Holo.
+-👋 Hi, welcome on my profile
 -👀 I’m interested in programming, Linux, and a bit of math.
 -🌱 I’m currently learning C++.
 -💞️ I’m looking to collaborate on a game project.
